@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muskan79
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning bootsrap and js and nodejs 
+- 🌱 I’m currently learning bootstrap and js and nodejs 
 - 💞️ I’m looking to collaborate on front end web dev projects.
 
 <!---
